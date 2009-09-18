@@ -1,0 +1,20 @@
+@import url("../main.css");
+body { color: #ccc; font-weight: normal;}
+a { color: #ccc; }
+#incoming a { color: #ff5bff; }
+a:active, a:hover { text-decoration: none; }
+
+#sendername { color: #7f7f7f; font-size: 11px; }
+#sendername:after { content: "@"; }
+
+#service { color: #7f7f7f; font-size: 11px; text-transform: lowercase; }
+
+#sn { color: #7f7f7f; font-size: 11px; }
+
+#incoming { color: #808080; }
+#status { color: #ff5bff; font-size: 11px; 	font-weight: normal;}
+
+em { color: #FFF; font-size: 8px; font-style: normal; display: block; background-color: #222; float: right; padding: 1px; margin: 0px 0px 1px 2px;}
+#incoming em { color: #808080; background-color: #333; }
+
+br { clear: right; }

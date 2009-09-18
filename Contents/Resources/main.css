@@ -1,0 +1,8 @@
+*,body {
+	font-family: Monaco;
+	font-size: 10px;
+	background: #000;
+	font-weight: normal;
+}
+a {text-decoration: underline;}
+var {font-style: normal;}
