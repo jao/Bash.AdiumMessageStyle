@@ -1,7 +1,6 @@
 @import url("../main.css");
-body { color: #FFF; font-weight: normal;}
-a { color: #FFF; }
-#incoming a {color: #0047AB;}
+body {color: #FFF; font-weight: normal;}
+a {color: #0047AB;}
 a:active, a:hover {text-decoration: none;}
 
 #sendername {color: #71c24b; font-size: 11px;}
@@ -17,4 +16,4 @@ a:active, a:hover {text-decoration: none;}
 em {color: #FFF; font-size: 8px; font-style: normal; display: block; background-color: #222; float: right; padding: 1px; margin: 0px 0px 1px 2px;}
 #incoming em {color: #fdfc7e; background-color: #333;}
 
-br { clear: right; }
+br {clear: right;}

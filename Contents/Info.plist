@@ -25,7 +25,7 @@
 	<key>DisableCombineConsecutive</key>
 	<true/>
 	<key>DisableCustomBackground</key>
-	<true/>
+	<false/>
 	<key>DisplayNameForNoVariant</key>
 	<string>None</string>
 	<key>MessageViewVersion</key>
