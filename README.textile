@@ -4,7 +4,7 @@ h2. How do I get this to work
 
 You go to your Adium Message Style directory.
 
-cd ~/Library/Application Support/Adium 2.0/Message Styles/Bash.AdiumMessageStyle
+cd ~/Library/Application Support/Adium 2.0/Message Styles
 
 And then you clone this repository.
 
