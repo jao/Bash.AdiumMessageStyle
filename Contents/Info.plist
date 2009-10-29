@@ -11,7 +11,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>com.adiumx.bash.style</string>
 	<key>CFBundleInfoDictionaryVersion</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>CFBundleName</key>
 	<string>Bash</string>
 	<key>CFBundlePackageType</key>
