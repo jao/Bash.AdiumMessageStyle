@@ -13,26 +13,15 @@ a:active, a:hover {text-decoration: none;}
 
 img.scaledToFitImage{ width:auto; }
 
+#header, #status {background-color: #222; padding: 3px; font-size: 11px; text-align: center; margin-bottom: 5px;}
+
 #filetransfer {
   width: auto;
-  padding: 25px;
+  margin: 10px;
+  padding: 10px;
   background-color: #222;
   color: #71c24b;
 }
 #filetransfer button { background-color: #999; color: #000; margin: 5px; padding: 5px; font-weight: bold;}
-
-#sendername {color: #fdfc7e; font-size: 11px;}
-#sendername:after {content: "|"; color: #FFF;}
-
-#service {color: #71c24b; font-size: 11px; text-transform: lowercase;}
-
-#sn {color: #191fb1; font-size: 11px;}
-#dollar {font-size: 11px; color: #FFF;}
-
-#incoming {color: #fdfc7e;}
-#header, #status {color: #EEE; font-size: 11px; padding: 2px; background-color: #222; text-align: center;}
-
-em {color: #FFF; font-size: 8px; font-style: normal; display: block; background-color: #222; float: right; padding: 1px; margin: 0px 0px 1px 2px;}
-#incoming em {color: #fdfc7e; background-color: #333;}
 
 br {clear: right;}

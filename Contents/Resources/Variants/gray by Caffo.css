@@ -18,5 +18,3 @@ em { color: #FFF; font-size: 8px; font-style: normal; display: block; background
 #incoming em { color: #808080; background-color: #333; }
 
 #filetransfer {color: #808080;}
-
-br { clear: right; }
