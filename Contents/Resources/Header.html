@@ -1,2 +1,12 @@
-<p>Last login: %timeOpened{%a %b %d %H:%M:%S}% on %chatName%<br/>
-<br />
+<div id="header">Last login: %timeOpened{%a %b %d %H:%M:%S}% on %chatName%</div>
+<div id="sendericon" align="right"><div><img src="%incomingIconPath%" height="32" width="32" /></div></div>
+<style type="text/css">
+#sendericon {
+  position:fixed;
+  width:100%;
+  top: 5px; left: -14px;
+  z-index:2;
+}
+#sendericon div {width: 32px; padding: 3px; background: #FFF;}
+#sendericon div img {background: #000;}
+</style>

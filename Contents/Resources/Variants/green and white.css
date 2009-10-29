@@ -3,17 +3,19 @@ body {color: #FFF; font-weight: normal;}
 a {color: #0047AB;}
 a:active, a:hover {text-decoration: none;}
 
-#sendername {color: #71c24b; font-size: 11px;}
-#sendername:after {content: "@";}
+#sendername {color: #fdfc7e; font-size: 11px;}
 
 #service {color: #71c24b; font-size: 11px; text-transform: lowercase;}
 
 #sn {color: #191fb1; font-size: 11px;}
+#dollar {font-size: 11px; color: #FFF;}
 
 #incoming {color: #71c24b;}
 #status {color: #EEE; font-size: 11px;}
 
 em {color: #FFF; font-size: 8px; font-style: normal; display: block; background-color: #222; float: right; padding: 1px; margin: 0px 0px 1px 2px;}
-#incoming em {color: #fdfc7e; background-color: #333;}
+#incoming em {color: #71c24b; background-color: #333;}
+
+#filetransfer {color: #71c24b;}
 
 br {clear: right;}
