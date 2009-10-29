@@ -1,20 +1,16 @@
 @import url("../main.css");
-body { color: #ccc; font-weight: normal;}
-a { color: #ccc; }
-#incoming a { color: #ff5bff; }
-a:active, a:hover { text-decoration: none; }
+body {color: #ccc; font-weight: normal;}
+a {color: #ccc;}
+#incoming a {color: #ff5bff;}
+a:active, a:hover {text-decoration: none;}
 
-#sendername { color: #7f7f7f; font-size: 11px; }
+#sendername {color: #7f7f7f;}
+#service {color: #7f7f7f; text-transform: lowercase;}
+#sn {color: #7f7f7f;}
+#dollar {color: #FFF;}
 
-#service { color: #7f7f7f; font-size: 11px; text-transform: lowercase; }
+#incoming {color: #808080;}
+#incoming em {color: #808080; background-color: #333;}
 
-#sn { color: #7f7f7f; font-size: 11px; }
-#dollar {font-size: 11px; color: #FFF;}
-
-#incoming { color: #808080; }
-#status { color: #ff5bff; font-size: 11px; 	font-weight: normal;}
-
-em { color: #FFF; font-size: 8px; font-style: normal; display: block; background-color: #222; float: right; padding: 1px; margin: 0px 0px 1px 2px;}
-#incoming em { color: #808080; background-color: #333; }
-
+#status {color: #ff5bff;}
 #filetransfer {color: #808080;}
