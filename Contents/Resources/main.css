@@ -23,8 +23,8 @@ img.scaledToFitImage{ width:auto; }
   color: #71c24b;
 }
 #filetransfer button { background-color: #999; color: #000; margin: 5px; padding: 5px; font-weight: bold;}
-
 #sendername, #service, #sn, #dollar {font-size: 11px;}
+#sendername:after {color: #FFF; content: '|';}
 
 em {color: #FFF; font-size: 8px; font-style: normal; display: block; background-color: #222; float: right; padding: 1px; margin: 0px 0px 1px 2px;}
 
