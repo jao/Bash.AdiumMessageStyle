@@ -1,6 +1,6 @@
 @import url("../main.css");
 body {color: #FFF; font-weight: normal;}
-a {color: #0047AB;}
+a {color: inherit;}
 a:active, a:hover {text-decoration: none;}
 
 #sendername {color: #fdfc7e;}
