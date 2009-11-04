@@ -16,7 +16,7 @@ And then you clone these two repositories
 
 Then you go to the message style directory.
 
-@cd ~/Library/Application\ Support/Adium\ 2.0/Message\ Style@
+@cd ~/Library/Application\ Support/Adium\ 2.0/Message\ Styles@
 
 And clone the this repository,
 
