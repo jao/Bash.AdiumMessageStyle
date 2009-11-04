@@ -1,17 +1,27 @@
-Bash is a Message Style for Adium.
+Bash is a style for Adium.
 
-h2. How do I get this to work
+h2. How do I get it to work
 
-You go to your Adium Message Style directory.
+First, you need git. Then you do the following:
 
-cd ~/Library/Application Support/Adium 2.0/Message Styles
+You go to your Adium contact list directory.
 
-And then you clone this repository.
+@cd ~/Library/Application\ Support/Adium\ 2.0/Contact\ List@
 
-git clone git://github.com/jao/Bash.AdiumMessageStyle.git
+And then you clone these two repositories
 
-After that go to your Adium's Message Style Preferences window, and choose the one named Bash, and pick your favorite variant.
+@git clone git://github.com/jao/Bash.ListLayout.git@
 
-h2. Easy mode (if you rather not do all that)
+@git clone git://github.com/jao/Bash.ListTheme.git@
 
-Visit the "Xtra's page":http://www.adiumxtras.com/index.php?a=xtras&xtra_id=3665 and click *install* if you don't want to do all this.
+Then you go to the message style directory.
+
+@cd ~/Library/Application\ Support/Adium\ 2.0/Message\ Style@
+
+And clone the this repository,
+
+@git clone git://github.com/jao/Bash.AdiumMessageStyle.git@
+
+After that go to your Adium's Preferences window, and choose the one named Bash in the Appearance tab, and in the Message Style tab.
+
+That should be it.
