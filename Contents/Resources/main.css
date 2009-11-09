@@ -4,11 +4,7 @@
 	font-weight: normal;
 }
 body {background: #000;}
-a {text-decoration: underline;}
-div {font-style: normal;}
-
-body {color: #FFF; font-weight: normal;}
-a {color: #36F;}
+a {text-decoration: underline;color: #36F;}
 a:active, a:hover {text-decoration: none;}
 
 img.scaledToFitImage{ width:auto; }
@@ -24,6 +20,7 @@ img.scaledToFitImage{ width:auto; }
 }
 #filetransfer button { background-color: #999; color: #000; margin: 5px; padding: 5px; font-weight: bold;}
 #sendername, #service, #sn, #dollar {font-size: 11px;}
+#service {text-transform: lowercase;}
 #sendername:after {color: #FFF; content: '|';}
 
 em {color: #FFF; font-size: 8px; font-style: normal; display: block; background-color: #222; float: right; padding: 1px; margin: 0px 0px 1px 2px;}

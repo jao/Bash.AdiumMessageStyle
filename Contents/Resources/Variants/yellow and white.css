@@ -1,10 +1,10 @@
 @import url("../main.css");
-body {color: #FFF; font-weight: normal;}
+body {color: #FFF;}
 a {color: inherit;}
-a:active, a:hover {text-decoration: none;}
+a:active, a:hover, a:visited, a:link {}
 
 #sendername {color: #fdfc7e;}
-#service {color: #71c24b; text-transform: lowercase;}
+#service {color: #71c24b;}
 #sn {color: #191fb1;}
 #dollar {color: #FFF;}
 

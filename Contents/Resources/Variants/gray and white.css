@@ -1,15 +1,15 @@
 @import url("../main.css");
-body {color: #CCC; font-weight: normal;}
+body {color: #999;}
 a {color: inherit;}
-a:active, a:hover {text-decoration: none;}
+a:active, a:hover, a:visited, a:link {text-decoration: none;}
 
 #sendername {color: #fdfc7e;}
-#service {color: #71c24b; text-transform: lowercase;}
+#service {color: #71c24b;}
 #sn {color: #191fb1;}
 #dollar {color: #FFF;}
 
 #incoming {color: #FFF;}
-#incoming em {color: #FFF; background-color: #333;}
+#incoming em {color: #FFF; background-color: #222;}
 
 #status {color: #EEE;}
 #filetransfer {color: #fdfc7e;}
