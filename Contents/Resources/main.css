@@ -4,7 +4,7 @@
 	font-weight: normal;
 }
 body {background: #000;}
-a {color: #36F; padding: 1px 5px 1px 5px;}
+a {color: #36F; padding: 1px;}
 a:visited, a:link {text-decoration: underline; color: #36F;}
 a:active, a:hover {text-decoration: none; background-color: #36F; color: #222;}
 
