@@ -1,7 +1,7 @@
 @import url("../main.css");
 body {color: #999;}
 a {color: inherit;}
-a:active, a:hover, a:visited, a:link {text-decoration: none;}
+a:active, a:hover, a:visited, a:link {}
 
 #sendername {color: #fdfc7e;}
 #service {color: #71c24b;}

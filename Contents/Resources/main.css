@@ -4,8 +4,9 @@
 	font-weight: normal;
 }
 body {background: #000;}
-a {text-decoration: underline;color: #36F;}
-a:active, a:hover {text-decoration: none;}
+a {color: #36F;}
+a:visited, a:link {text-decoration: underline; color: #36F;}
+a:active, a:hover {text-decoration: none; background-color: #36F; color: #222;}
 
 img.scaledToFitImage{ width:auto; }
 
